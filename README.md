@@ -40,7 +40,8 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 
 <br/><br/>
 
-### 📊 Github Stats
+
+### 📊 GitHub Stats
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Karthikeyan-T01&show_icons=true&theme=transparent)](https://github.com/Karthikeyan-T01)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeyan-T01&layout=compact&theme=transparent)](https://github.com/Karthikeyan-T01)
