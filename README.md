@@ -40,12 +40,8 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 
 <br/><br/>
 
-
-
-![Metrics](https://metrics.lecoq.io/YOUR_USERNAME?template=classic&config.timezone=Asia%2FKolkata)
-
-
-
+### 🌆 GitHub Skyline
+[View my GitHub Skyline](https://skyline.github.com/Karthikeyan-T01)
 
 <br/>
 
