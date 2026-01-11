@@ -41,7 +41,8 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 <br/><br/>
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+![Metrics](https://metrics.lecoq.io/Karthiktemplate=classic&config.timezone=Asia%2FKolkata)
+
 
 
 <br/>
