@@ -40,8 +40,8 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 
 <br/><br/>
 
-### 🌆 GitHub Skyline
-[View my GitHub Skyline](https://skyline.github.com/Karthikeyan-T01)
+### 🔥 Contribution Heatmap
+![Heatmap](https://capsule-render.vercel.app/api?type=heatmap&username=Karthikeyan-T01&theme=dracula)
 
 <br/>
 
