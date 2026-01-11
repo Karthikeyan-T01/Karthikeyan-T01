@@ -41,11 +41,9 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 <br/><br/>
 
 
-### 🚀 Projects
-- 📦 **Machine Learning Models**  
-  ![Status](https://img.shields.io/badge/Status-Active-success)
-  ![Python](https://img.shields.io/badge/Python-3.10-blue)
-  ![ML](https://img.shields.io/badge/Machine%20Learning-Enabled-orange)
+### 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 
 
 <br/>
