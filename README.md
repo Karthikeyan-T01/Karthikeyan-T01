@@ -41,10 +41,7 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 <br/><br/>
 
 
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-
+![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome!&fontColor=fff&animation=fadeIn)
 
 <br/>
 
