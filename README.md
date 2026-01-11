@@ -41,7 +41,8 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 <br/><br/>
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=Welcome!&fontColor=fff&animation=fadeIn)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark)
+
 
 <br/>
 
