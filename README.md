@@ -40,9 +40,6 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 
 <br/><br/>
 
-### 🔥 Contribution Heatmap
-![Heatmap](https://capsule-render.vercel.app/api?type=heatmap&username=Karthikeyan-T01&theme=dracula)
-
 <br/>
 
 ### 📁 Projects
