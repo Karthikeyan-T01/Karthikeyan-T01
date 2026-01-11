@@ -47,26 +47,45 @@ I’m a tech-enthusiastic developer interested in building AI agents—whether i
 
 <br/>
 
-## 📁 Projects
+### 📁 Projects
 
-<a href="https://github.com/Karthikeyan-T01/MultiAgent-Research-AI" target="_blank">
-  <img src="https://raw.githubusercontent.com/Karthikeyan-T01/MultiAgent-Research-AI/main/project.svg" height="68" align="left" alt="MultiAgent Research AI">
-</a>
+#### 🔹 MultiAgent Research AI
+[![Repo](https://img.shields.io/badge/Repo-MultiAgent_Research_AI-181717?style=flat&logo=github)](https://github.com/Karthikeyan-T01/MultiAgent-Research-AI)
+![Agents](https://img.shields.io/badge/AI-Agents-blue?style=flat)
+![LLMs](https://img.shields.io/badge/LLMs-LangChain-yellow?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
 
-<a href="https://github.com/Karthikeyan-T01/Indian_population" target="_blank">
-  <img src="https://raw.githubusercontent.com/Karthikeyan-T01/Indian_population/main/project.svg" height="68" align="left" alt="Indian Population">
-</a>
+---
 
-<a href="https://github.com/Karthikeyan-T01/Advanced-RAG-powered-document-analysis-" target="_blank">
-  <img src="https://raw.githubusercontent.com/Karthikeyan-T01/Advanced-RAG-powered-document-analysis-/main/project.svg" height="68" align="left" alt="Advanced RAG Powered Document Analysis">
-</a>
+#### 🔹 Indian Population
+[![Repo](https://img.shields.io/badge/Repo-Indian_Population-181717?style=flat&logo=github)](https://github.com/Karthikeyan-T01/Indian_population)
+![Dataset](https://img.shields.io/badge/Data-Demographics-blue?style=flat)
+![Analysis](https://img.shields.io/badge/Analysis-Statistics-brightgreen?style=flat)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
 
-<a href="https://github.com/Karthikeyan-T01/Sentiment-Analysis" target="_blank">
-  <img src="https://raw.githubusercontent.com/Karthikeyan-T01/Sentiment-Analysis/main/project.svg" height="68" align="left" alt="Sentiment Analysis">
-</a>
+---
 
-<a href="https://github.com/Karthikeyan-T01/Chatbot-for-PDFs-using-NVIDIA-AI" target="_blank">
-  <img src="https://raw.githubusercontent.com/Karthikeyan-T01/Chatbot-for-PDFs-using-NVIDIA-AI/main/project.svg" height="68" align="left" alt="Chatbot for PDFs using NVIDIA AI">
-</a>
+#### 🔹 Advanced RAG Powered Document Analysis
+[![Repo](https://img.shields.io/badge/Repo-RAG_Document_Analysis-181717?style=flat&logo=github)](https://github.com/Karthikeyan-T01/Advanced-RAG-powered-document-analysis-)
+![RAG](https://img.shields.io/badge/RAG-Enabled-purple?style=flat)
+![OCR](https://img.shields.io/badge/OCR-Document_Parsing-orange?style=flat)
+![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
+
+---
+
+#### 🔹 Sentiment Analysis
+[![Repo](https://img.shields.io/badge/Repo-Sentiment_Analysis-181717?style=flat&logo=github)](https://github.com/Karthikeyan-T01/Sentiment-Analysis)
+![ML](https://img.shields.io/badge/ML-NLP-green?style=flat)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
+
+---
+
+#### 🔹 Chatbot for PDFs using NVIDIA AI
+[![Repo](https://img.shields.io/badge/Repo-Chatbot_for_PDFs-181717?style=flat&logo=github)](https://github.com/Karthikeyan-T01/Chatbot-for-PDFs-using-NVIDIA-AI)
+![Chatbot](https://img.shields.io/badge/Chatbot-AI-purple?style=flat)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-Accelerated-76B900?style=flat&logo=nvidia)
+![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat)
+
 
 <br/><br/><br/>
